@@ -1,0 +1,7 @@
+﻿@using ExemploMultiLangXML.Services
+@inject IMultiLang MultiLang
+
+@{
+    ViewData["Title"] = @MultiLang.GetEntry("Home");
+}
+<h3>@ViewData["Message"]</h3>

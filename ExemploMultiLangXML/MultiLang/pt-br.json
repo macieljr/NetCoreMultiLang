@@ -1,0 +1,42 @@
+﻿[
+  {
+    "key": "Title",
+    "text": "Exemplo MultiLang"
+  },
+  {
+    "key": "ToggleNavigation",
+    "text": "Alternar navegação"
+  },
+  {
+    "key": "Home",
+    "text": "Início"
+  },
+  {
+    "key": "About",
+    "text": "Sobre"
+  },
+  {
+    "key": "Contact",
+    "text": "Contato"
+  },
+  {
+    "key": "HomeMessage",
+    "text": "Seja bem-vindo ao nosso site."
+  },
+  {
+    "key": "AboutMessage",
+    "text": "Esta página descreve este site."
+  },
+  {
+    "key": "ContactMessage",
+    "text": "Esta página permite a você contato conosco."
+  },
+  {
+    "key": "OptionPtBr",
+    "text": "Portugês brasileiro"
+  },
+  {
+    "key": "OptionEnUs",
+    "text": "Inglês americano"
+  }
+]

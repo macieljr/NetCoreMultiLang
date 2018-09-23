@@ -1,0 +1,42 @@
+﻿[
+  {
+    "key": "Title",
+    "text": "MultiLang Example"
+  },
+  {
+    "key": "ToggleNavigation",
+    "text": "Toggle navigation"
+  },
+  {
+    "key": "Home",
+    "text": "Home"
+  },
+  {
+    "key": "About",
+    "text": "About"
+  },
+  {
+    "key": "Contact",
+    "text": "Contact"
+  },
+  {
+    "key": "HomeMessage",
+    "text": "Welcome to our website."
+  },
+  {
+    "key": "AboutMessage",
+    "text": "This page describes this site."
+  },
+  {
+    "key": "ContactMessage",
+    "text": "This page allows you to contact us."
+  },
+  {
+    "key": "OptionPtBr",
+    "text": "Brazilian portuguese"
+  },
+  {
+    "key": "OptionEnUs",
+    "text": "American english"
+  }
+]
